@@ -1,0 +1,135 @@
+.container-add-new {
+  width: 100vw;
+  position: fixed;
+  top: 10vh;
+}
+.container-add-new .add-new {
+  width: 70%;
+  height: 60vh;
+  margin: auto;
+  background: #f8fafb;
+  padding: 2rem;
+}
+
+.container-add-new .topbar {
+  background: white;
+  padding: 20px;
+  border: 1px white solid;
+  border-radius: 15px;
+  margin-bottom: 2rem;
+}
+
+.container-add-new .form {
+  background: white;
+  padding: 20px;
+  border: 1px white solid;
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.container-add-new .form .input {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.container-add-new .form .input input {
+  width: 90%;
+  height: 30px;
+  border-radius: 10px;
+  outline: none;
+  border: 1px #e5e5e5 solid;
+  padding-left:10px;
+  -webkit-box-shadow: none;
+}
+
+.container-add-new .form .input .phone-select-dropdown {
+  /* background: black; */
+  margin-left: 50px;
+  width: 83%;
+}
+.react-tel-input .flag-dropdown {
+  background: white;
+  border-radius: 5px;
+}
+
+.container-add-new .form .input label {
+  font-size: 16px;
+  font-weight: bold;
+}
+.container-add-new .form .input span {
+  color: red;
+}
+
+.container-add-new .form .input .error-message {
+  color: #e7737e;
+  display: flex;
+  align-items: center;
+  border: 2px #fecccd solid;
+  font-size: 14px;
+  border-radius: 5px;
+  width: 89%;
+  padding: 5px;
+  margin-top: 1rem;
+  background: #ffeced;
+}
+
+.container-add-new .form .input .error-message span {
+  margin-right: 10px;
+}
+
+.container-add-new .form .input-checkbox {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+.container-add-new .form .input-checkbox > label {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.container-add-new .form .input-checkbox .options {
+  margin-top: 15px;
+}
+
+.container-add-new .form .input-checkbox .options span {
+  margin-right: 90px;
+}
+
+.container-add-new .form .input-checkbox .options span input {
+  margin-right: 5px;
+  height: 18px;
+  width: 18px;
+}
+
+.container-add-new .form .input-checkbox label span {
+  color: red;
+}
+
+.container-add-new .goBack {
+  /* display: block; */
+  margin-left: 70%;
+  margin-right:1rem;
+  margin-top: 1rem;
+  background: #EA4C89;
+  cursor: pointer;
+  width: 150px;
+  border: none;
+  color: white;
+  height: 50px;
+  border-radius: 5px;
+}
+.container-add-new .submit {
+  /* display: block; */
+  /* margin-left: 78%; */
+  margin-top: 1rem;
+  background: #48a44c;
+  cursor: pointer;
+  width: 150px;
+  border: none;
+  color: white;
+  height: 50px;
+  border-radius: 5px;
+}
