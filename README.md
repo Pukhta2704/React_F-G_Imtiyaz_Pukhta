@@ -26,7 +26,7 @@ For routing, I have used lazy loading feature of react and webpack. I have defin
 
 which exports and array of objects with keys: route, id, and component.
 
-[![Watch the video]](https://youtu.be/Lnoh28PE8BI)
+Here is a video demonstration of the application:<br/>
 [![Watch the video](https://www.flowsols.com/wp-content/uploads/2021/10/video.jpg)](https://youtu.be/Lnoh28PE8BI)
 
 Images:
