@@ -1,3 +1,4 @@
+
 import * as Icon from "react-feather"
 import { Link } from "react-router-dom"
 import "./homepage.css"
@@ -70,7 +71,9 @@ const Homepage = () => {
             </Link>
           </div>
         </div>
-        <p className="info">112 records found. 3 filters applied</p>
+        <p className="info">
+          {`${data?.length || 0} records found.`} {filter !== "" && "Filter applied."}
+        </p>
         <div className="data-table">
           <table>
             <tr className="table-top-row">
