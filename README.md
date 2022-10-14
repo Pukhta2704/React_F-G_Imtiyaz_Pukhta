@@ -26,6 +26,8 @@ For routing, I have used lazy loading feature of react and webpack. I have defin
 
 which exports and array of objects with keys: route, id, and component.
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Lnoh28PE8BI)
+
 Images:
 ![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot1.png)
 ![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot2.png)
