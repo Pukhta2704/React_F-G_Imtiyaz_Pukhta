@@ -20,7 +20,11 @@ https://github.com/Pukhta2704/node-react-validator
 
 In the application I have included the source code of the validator in the src file so you guys can have a look.
 
-Apart from that I haven't used any thrid party css libraries for this application and it is coded in pure css.<br/>
+Apart from that I haven't used any thrid party css libraries for this application and it is coded in pure css.
+
+For routing, I have used lazy loading feature of react and webpack. I have defined all the routes in a seperate file, called router.js
+
+which exports and array of objects with keys: route, id, and component.
 
 Images:
 ![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot1.png)
@@ -28,5 +32,3 @@ Images:
 ![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot3.png)
 ![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot4.png)
 ![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot5.png)
-
-Here is a video demonstration of the application:
