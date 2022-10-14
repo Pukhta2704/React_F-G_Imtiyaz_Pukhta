@@ -2,7 +2,9 @@
 ## Available Scripts
 
 Clone the repository and run npm install.
-In case npm install shows any errors, you can run this command instead:<br/>
+
+In case npm install shows any errors, you can run this command instead:
+
 npm install --ignore-scripts --no-lockfile --production --no-global --legacy-peer-deps --force
 
 In the project directory, you can this run:
@@ -10,11 +12,21 @@ In the project directory, you can this run:
 ### `npm start`
 This will open the application on localhost:3000
 
-For validation I have made a custom validator which does all the logic using recursion.<br/>
+For validation I have made a custom validator which does all the logic using recursion.
+
 It is also an npm package, the source code is available here:
+
 https://github.com/Pukhta2704/node-react-validator
 
 In the application I have included the source code of the validator in the src file so you guys can have a look.
 
-Apart from that I haven't used any thrid party css libraries for this application and it is coded in pure css. 
+Apart from that I haven't used any thrid party css libraries for this application and it is coded in pure css.<br/>
+
+Images:
+![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot1.png)
+![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot2.png)
+![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot3.png)
+![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot4.png)
+![image](https://raw.githubusercontent.com/Pukhta2704/React_F-G_Imtiyaz_Pukhta/master/screenshot5.png)
+
 Here is a video demonstration of the application:
